@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Freelance R and Shiny consultant
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Work
+- R/Shiny consulting
+- Data science: Machine learning, Time series forecasting
+- Big data: Hive, Impala, Spark development
+- Implementing self service BI tools
+- Teaching/tutoring
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Talks at Meetups/Conferences
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Going Async with Shiny @ eRum 2018
+- Creating Web API-s in R @ Budapest Users of R Network
+- R Notebooks in RStudio @ Budapest Users of R Network
+- Some interesting problems encountered while using Stackoverflow @ Budapest BI meetup night
